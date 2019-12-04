@@ -7,7 +7,7 @@ a short [presentation](https://docs.google.com/presentation/d/1G3ZPOtCJCUtviQLXG
 
 ## Links
 
-- Official [Code Sandbox](https://codesandbox.io/s/heuristic-keller-7fceq) which we will be updating throughout the day
+- Official [Code Sandbox](https://codesandbox.io/s/innovate-12-05-2019-7fceq) which we will be updating throughout the day
 
 # files in this repository
 
