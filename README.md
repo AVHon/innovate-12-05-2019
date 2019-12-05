@@ -25,9 +25,9 @@ On the right is the output. It looks like a little web browser window. When our 
 
 On the bottom-right is the console. It is initially collapsed, but expands when you click on the name. We will write and run one-off lines of code here. Also, errors in your game will be shown here.
 
-### [Instructors' Code Sandbox](https://codesandbox.io/s/innovate-12-05-2019-7fceq)
+### [Instructors' Code Sandbox](https://codesandbox.io/s/innovate-12-05-2019-n7rh8)
 
-The instructors will periodically put new versions of working games into our [code sandbox](https://codesandbox.io/s/innovate-12-05-2019-7fceq). When we change our code sandbox, you will not see the changes until you reload the tab.
+The instructors will periodically put new versions of working games into our [code sandbox](https://codesandbox.io/s/innovate-12-05-2019-n7rh8). When we change our code sandbox, you will not see the changes until you reload the tab.
 
 ### [Instructors' Cryptpad](https://cryptpad.fr/code/#/2/code/view/Y4EgOADmb8Bia-xKC5zgtZuMMnEkN38NYKIzy6jf6Tg/)
 
