@@ -29,10 +29,6 @@ On the bottom-right is the console. It is initially collapsed, but expands when 
 
 The instructors will periodically put new versions of working games into our [code sandbox](https://codesandbox.io/s/innovate-12-05-2019-n7rh8). When we change our code sandbox, you will not see the changes until you reload the tab.
 
-### [Instructors' Cryptpad](https://cryptpad.fr/code/#/2/code/view/Y4EgOADmb8Bia-xKC5zgtZuMMnEkN38NYKIzy6jf6Tg/)
-
-Throughout the day, we will write and change lots of code that is not necessarily part of a working game. To keep transient demonstrations and incomplete modifications away from our code sandbox, we will write these things on [cryptpad](https://cryptpad.fr/code/#/2/code/view/Y4EgOADmb8Bia-xKC5zgtZuMMnEkN38NYKIzy6jf6Tg/). Cryptpad should not need to be reloaded; it update to keep up with our every keystroke.
-
 ### [Slides](https://docs.google.com/presentation/d/1G3ZPOtCJCUtviQLXGuoSYPIO3LPDh7fyg1CpABSeyUg)
 
 We have a terse [presentation](https://docs.google.com/presentation/d/1G3ZPOtCJCUtviQLXGuoSYPIO3LPDh7fyg1CpABSeyUg) with basic javascript principles.
